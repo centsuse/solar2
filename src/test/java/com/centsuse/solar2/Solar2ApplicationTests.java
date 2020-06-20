@@ -1,0 +1,13 @@
+package com.centsuse.solar2;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Solar2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
